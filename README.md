@@ -1,64 +1,104 @@
-<h1 align="center">Olá 👋, eu sou o Vinícius</h1>
-<h3 align="center">Desenvolvedor de Sistemas e Estudante de tecnologia.</h3>
-<p align="center">
-  Apaixonado por trading e mercado financeiro, também gosto de trabalhar com LLMs.
-  <br>
-  Atualmente, estou estudando para implementar IA no meu sistema de negociação, que já está bem documentado e validado!
-</p>
+### 👋 Olá, eu sou o Vinícius!
 
-<br>
+### 🚀 Sobre Mim
+Desenvolvedor apaixonado por criar soluções digitais que fazem a diferença.
+Desde 2023, dedico-me a construir aplicações web modernas, rápidas e escaláveis. Acredito que cada linha de código é uma oportunidade de resolver problemas reais e criar experiências memoráveis para os usuários.
 
-<h3 align="left">🚀 Sobre mim:</h3>
-<p align="left">
-  🌱 Atualmente, meu foco é aprender a lidar com dados extensos para trabalhar com aprendizado de máquina.
-  <br>
-  🐍 Estou estudando <strong>Pandas</strong>, a biblioteca <strong>YahooFinance (yfinance)</strong> e <strong>Scikit-learn (sklearn)</strong>.
-  <br>
-  🎯 Meu objetivo é treinar meu sistema com as informações que serão tratadas e, assim, refinar minhas negociações no mercado financeiro.
-</p>
+### 💡 O que me diferencia:
+* **Foco na experiência do usuário:** Interfaces intuitivas e responsivas
+* **Código de qualidade:** Sempre limpo, legível e escalável
+* **Performance otimizada:** Aplicações rápidas e eficientes
+* **Acessibilidade universal:** Tecnologia para todos
+* **Aprendizado contínuo:** Sempre atualizado com as melhores práticas
 
-<br>
+---
 
-<div align="center">
-  <h3 align="center">Tecnologias que eu utilizo:</h3>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-    <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Axios" height="40" width="50" src="https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white">
-  </div>
-   <h3 align="center">... e o que estou aprendendo:</h3>
-   <div style="display: inline_block"><br>
-     <img align="center" alt="NumPy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-    <img align="center" alt="Scikit-learn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
-   </div>
+### 🌱 Estou focado em:
+* Aprender e aplicar conceitos de Machine Learning com **Pandas**, **scikit-learn (sklearn)**.
+* Analisar dados do mercado financeiro utilizando a biblioteca **YahooFinance**.
+* Refinar meu sistema de negociação através de dados tratados e modelos treinados.
+
+---
+
+### 💻 Tecnologias e Ferramentas:
+
+#### Front-end
+<div style="display: inline_block">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
 </div>
 
-<br>
+#### Back-end
+<div style="display: inline_block">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-596677?style=for-the-badge&logoColor=white">
+</div>
 
+#### Outros
+<div style="display: inline_block">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
+---
+
+### 📊 Minhas Estatísticas do GitHub:
 <div align="center">
-  <h3 align="center">Minhas Estatísticas no GitHub:</h3>
-  <a href="https://github.com/alciviny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alciviny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alciviny&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alciviny&layout=compact&theme=tokyonight"/>
 </div>
 
-<br>
+---
 
-<div align="center">
-  <h3 align="center">Conecte-se comigo:</h3>
-  <a href="https://linkedin.com/in/alcionis-vinicius" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="https://instagram.com/alciviny" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:alcionisviniciusdossantossilva@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+
+### 🎯 Serviços que Ofereço
+<table align="center">
+  <tr align="center">
+    <td><b>🌐 Desenvolvimento Web</b></td>
+    <td><b>📱 Aplicações Responsivas</b></td>
+    <td><b>⚡ Performance</b></td>
+  </tr>
+  <tr align="center">
+    <td>Sites e sistemas modernos</td>
+    <td>Design adaptativo</td>
+    <td>Otimização de velocidade</td>
+  </tr>
+  <tr align="center">
+    <td><b>🔧 APIs Robustas</b></td>
+    <td><b>🎨 UI/UX Focada</b></td>
+    <td><b>📈 Escalabilidade</b></td>
+  </tr>
+  <tr align="center">
+    <td>Backend seguro e rápido</td>
+    <td>Interfaces intuitivas</td>
+    <td>Arquitetura preparada</td>
+  </tr>
+</table>
+
+---
+
+### 💭 Filosofia de Desenvolvimento
+> "Cada pequena melhoria tem um impacto gigantesco no resultado final!"
+
+<p align="center">
+  Código limpo • Aprendizado contínuo • Simplicidade poderosa
+</p>
+
+---
+
+### 💬 Vamos Conversar?
+Pronto para transformar sua ideia em realidade digital?
+
+---
+
+### 📫 Conecte-se comigo:
+<div> 
+  <a href="https://www.linkedin.com/in/alcionis-vinicius" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/alciviny" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="mailto:alcionisviniciusdossantossilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
