@@ -55,7 +55,8 @@ Desde 2023, dedico-me a construir aplicações web modernas, rápidas e escaláv
 
 ---
 
-
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=alciviny&style=for-the-badge&label=PROFILE+VIEWS&color=bb9af7" />
+</div>
 ### 🎯 Serviços que Ofereço
 <table align="center">
   <tr align="center">
