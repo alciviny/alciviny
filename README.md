@@ -27,7 +27,7 @@ Desde 2023, dedico-me a construir aplicações web modernas, rápidas e escaláv
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+  
 </div>
 
 #### Back-end
@@ -38,6 +38,7 @@ Desde 2023, dedico-me a construir aplicações web modernas, rápidas e escaláv
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-596677?style=for-the-badge&logoColor=white">
+  <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
 </div>
 
 #### Outros
