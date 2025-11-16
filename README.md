@@ -52,7 +52,7 @@ Desde 2023, dedico-me a construir aplicações web modernas, rápidas e escaláv
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alciviny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alciviny&layout=compact&theme=tokyonight"/>
- ![Minhas Contribuições 3D](https://github.com/alciviny/alciviny/blob/main/profile-3d-contrib/profile-green.svg)
+ ![Minhas Contribuições 3D](https://raw.githubusercontent.com/alciviny/alciviny/main/profile-3d-contrib/profile-green.svg)
 </div>
 
 ---
