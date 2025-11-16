@@ -47,7 +47,7 @@ Desde 2023, dedico-me a construir aplicações web modernas, rápidas e escaláv
 </div>
 
 ---
-
+[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alciviny&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 📊 Minhas Estatísticas do GitHub:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alciviny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
