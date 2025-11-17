@@ -1,37 +1,39 @@
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
-
-Sbake.yml:
-name: Generate snake animation
+name: Generate Snake
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  # Executa a cada 12 horas
+  schedule:
+    - cron: '0 */12 * * *'
+  
+  # Permite que você execute manualmente pela aba "Actions"
   workflow_dispatch:
 
-  push:
-    branches:
-    - master
-
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: alciviny
-          outputs: dist/snake.svg?palette=github-dark
+      - name: Checkout
+        uses: actions/checkout@v3
 
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Gera o arquivo SVG da cobrinha
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
+          # Pega automaticamente o seu nome de usuário
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Define onde o arquivo SVG será salvo
+          outputs: dist/github-contribution-grid-snake.svg
+
+      # Faz o push do arquivo gerado para o repositório
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          # O ramo (branch) para onde o SVG será enviado
           target_branch: output
+          # O diretório que contém o arquivo gerado
           build_dir: dist
         env:
+          # Token necessário para permitir que a Action escreva no seu repositório
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
