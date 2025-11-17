@@ -97,7 +97,6 @@ dedico-me a construir aplicações web modernas, rápidas e escaláveis. Acredit
 
 ### 💬 Vamos Conversar?
 Pronto para transformar sua ideia em realidade digital?
-![Snake animation](https://raw.githubusercontent.com/alciviny/alciviny/output/github-contribution-grid-snake.svg?palette=github-dark)
 
 ---
 
