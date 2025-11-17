@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre Mim
 Desenvolvedor apaixonado por criar soluções digitais que fazem a diferença.
-Desde 2023, dedico-me a construir aplicações web modernas, rápidas e escaláveis. Acredito que cada linha de código é uma oportunidade de resolver problemas reais e criar experiências memoráveis para os usuários.
+dedico-me a construir aplicações web modernas, rápidas e escaláveis. Acredito que cada linha de código é uma oportunidade de resolver problemas reais e criar experiências memoráveis para os usuários.
 
 ### 💡 O que me diferencia:
 * **Foco na experiência do usuário:** Interfaces intuitivas e responsivas
