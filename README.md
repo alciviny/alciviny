@@ -85,7 +85,7 @@ dedico-me a construir aplicações web modernas, rápidas e escaláveis. Acredit
 </table>
 
 ---
-
+![Snake animation](https://raw.githubusercontent.com/alciviny/alciviny/output/github-contribution-grid-snake.svg?palette=github-dark)
 ### 💭 Filosofia de Desenvolvimento
 > "Cada pequena melhoria tem um impacto gigantesco no resultado final!"
 
