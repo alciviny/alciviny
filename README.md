@@ -92,7 +92,7 @@ dedico-me a construir aplicações web modernas, rápidas e escaláveis. Acredit
 <p align="center">
   Código limpo • Aprendizado contínuo • Simplicidade poderosa
 </p>
-
+![Snake animation](https://raw.githubusercontent.com/alciviny/alciviny/output/github-contribution-grid-snake.svg?palette=github-dark)
 ---
 
 ### 💬 Vamos Conversar?
@@ -106,4 +106,4 @@ Pronto para transformar sua ideia em realidade digital?
   <a href="https://instagram.com/alciviny" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="mailto:alcionisviniciusdossantossilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-![Snake animation](https://raw.githubusercontent.com/alciviny/alciviny/output/github-contribution-grid-snake.svg?palette=github-dark)
+
