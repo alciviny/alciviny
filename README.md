@@ -1,28 +1,28 @@
-# 👋 Olá, eu sou o Vinícius
+#  Olá, eu sou o Vinícius
 
-## 🚀 Software Engineer | Back-end, IA & Arquitetura de Sistemas
+##  Software Engineer | Back-end, IA & Arquitetura de Sistemas
 
 Desenvolvedor focado em **construir sistemas escaláveis, performáticos e bem arquitetados**, com forte atuação em **Back-end, Inteligência Artificial aplicada e Engenharia de Dados**. Trabalho do design à produção, sempre priorizando **clareza arquitetural, impacto real e sustentabilidade técnica**.
 
 ---
 
-## 💡 O que me diferencia
+##  O que me diferencia
 
-* 🎯 **Experiência do Usuário (UX)**
+*  **Experiência do Usuário (UX)**
   Interfaces intuitivas, responsivas e orientadas a valor.
 
-* 🏗️ **Arquitetura de Software**
+*  **Arquitetura de Software**
   Clean Architecture, Hexagonal e Domain-Driven Design (DDD).
 
-* 🧠 **Engenharia de Dados & IA**
+*  **Engenharia de Dados & IA**
   Sistemas RAG, orquestração de LLMs, grafos de conhecimento e análise quantitativa.
 
-* ⚡ **Performance & Escalabilidade**
+*  **Performance & Escalabilidade**
   Workers em Go, pipelines otimizados com Apache Parquet e processamento assíncrono.
 
 ---
 
-## ✅ O que eu entrego
+##  O que eu entrego
 
 * Sistemas back-end escaláveis com **FastAPI, Node.js e Go**
 * Arquiteturas limpas e sustentáveis (**DDD, Clean, Hexagonal**)
@@ -32,16 +32,16 @@ Desenvolvedor focado em **construir sistemas escaláveis, performáticos e bem a
 
 ---
 
-## 💻 Tecnologias & Frameworks
+##  Tecnologias & Frameworks
 
-### 🎨 Front-end
+###  Front-end
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### ⚙️ Back-end & Inteligência
+###  Back-end & Inteligência
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
@@ -53,7 +53,7 @@ Desenvolvedor focado em **construir sistemas escaláveis, performáticos e bem a
 ![Qdrant](https://img.shields.io/badge/Qdrant-ff4e42?style=for-the-badge\&logo=qdrant\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### 📊 Data Science & Trading Quantitativo
+###  Data Science & Trading Quantitativo
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
@@ -61,7 +61,7 @@ Desenvolvedor focado em **construir sistemas escaláveis, performáticos e bem a
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
 ![MetaTrader5](https://img.shields.io/badge/MetaTrader5-0059B2?style=for-the-badge\&logo=metatrader5\&logoColor=white)
 
-### 🛠️ Engenharia, DevOps & Qualidade
+###  Engenharia, DevOps & Qualidade
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
@@ -72,15 +72,15 @@ Desenvolvedor focado em **construir sistemas escaláveis, performáticos e bem a
 
 ---
 
-## 🔍 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🧠 Athena — Plataforma de Aprendizado Adaptativo
+###  Athena — Plataforma de Aprendizado Adaptativo
 
 * Grafo de conhecimento com busca semântica
 * Arquitetura modular (Brain / BFF / Workers)
 * IA aplicada para otimização cognitiva e aprendizado acelerado
 
-### 📈 Co-Piloto Quant — Trading Algorítmico
+###  Co-Piloto Quant — Trading Algorítmico
 
 * Backtesting robusto e Walk-Forward Analysis
 * Simulações de risco com Monte Carlo
@@ -88,14 +88,14 @@ Desenvolvedor focado em **construir sistemas escaláveis, performáticos e bem a
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alciviny\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alciviny\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 📫 Conecte-se comigo
+##  Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alcionis-vinicius)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/alciviny)
