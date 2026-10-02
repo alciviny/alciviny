@@ -1,9 +1,16 @@
-# Vinícius
+# Hi, I'm Vinícius 👋
 
-Software Engineer focused on back-end development, applied AI, and data engineering.
+Back-end, applied AI & data engineering. I build APIs, intelligent systems, and tools for quantitative research.
 
-I build APIs, data pipelines, and tools for learning and quantitative research, with an emphasis on clear architecture and maintainable code.
+**Stack:** Python · TypeScript · Go · PostgreSQL · Docker
 
-**Technologies:** Python · TypeScript · Go · FastAPI · Node.js · PostgreSQL · Docker
+[LinkedIn](https://www.linkedin.com/in/alcionis-vinicius) · [Email](mailto:alcionisviniciusdossantossilva@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/alcionis-vinicius) · [Instagram](https://instagram.com/alciviny) · [Email](mailto:alcionisviniciusdossantossilva@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=alciviny&label=Profile%20views&color=6366f1&style=flat)
+
+### Feeding the snake, one commit at a time 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alciviny/alciviny/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/alciviny/alciviny/output/github-contribution-grid-snake.svg">
+</picture>
