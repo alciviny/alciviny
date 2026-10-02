@@ -8,7 +8,12 @@ Back-end, applied AI & data engineering. I build APIs, intelligent systems, and 
 
 ![Profile views](https://komarev.com/ghpvc/?username=alciviny&label=Profile%20views&color=6366f1&style=flat)
 
-### Feeding the snake, one commit at a time 🐍
+### Projects
+
+<a href="https://github.com/alciviny/Alciviny-Capital"><img src="./assets/alcivinycapital.svg" alt="AlcivinyCapital — quantitative market analysis and dashboards" width="410"></a>
+<a href="https://github.com/alciviny/alana_llm"><img src="./assets/alanallm.svg" alt="AlanaLLM — multi-agent AI orchestration" width="410"></a>
+
+### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alciviny/alciviny/output/github-contribution-grid-snake-dark.svg">
