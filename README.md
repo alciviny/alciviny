@@ -1,6 +1,6 @@
 # Vinicius, o Alciviny👋
 
-backend, processamentos pesados, tenho gastado meu tempo com coisas que niguem vai ver. por favor, verifique a aba de pensamentos, deve esta em algum lugar ou protótipos de drone com armamento lazer testado com python e calculos em R
+backend, processamentos pesados, tenho gastado meu tempo com coisas que niguem vai ver. por favor, verifique a aba de pensamentos, deve esta em algum lugar perto  dos protótipos de drone com armamento lazer testado com python e calculos de vetores em R.
 
 **Stack:** Python · TypeScript · Go · PostgreSQL · Docker
 
