@@ -1,4 +1,4 @@
-# Vinicius, o Alciviny👋
+# Vinicius, o Alciviny 🝓
 
  Tenho gasto meu tempo com coisas que ninguém vai ver. Por favor, verifique a aba de pensamentos; deve estar em algum lugar perto dos protótipos de drone com armamento laser, testados com Python e cálculos de vetores em R.
 
