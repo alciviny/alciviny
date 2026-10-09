@@ -1,6 +1,6 @@
-# Hi, I'm Vinícius 👋
+# Vinicius, o Alciviny👋
 
-Back-end, applied AI & data engineering. I build APIs, intelligent systems, and tools for quantitative research.
+backend, processamentos pesados, tenho gastado meu tempo com coisas que niguem vai ver. por favor, verifique a aba de pensamentos, deve esta em algum lugar ou protótipos de drone com armamento lazer testado com python e calculos em R
 
 **Stack:** Python · TypeScript · Go · PostgreSQL · Docker
 
