@@ -11,7 +11,7 @@
 ### Projects
 
 <a href="https://github.com/alciviny/Alciviny-Capital"><img src="./assets/alcivinycapital.svg" alt="AlcivinyCapital — quantitative market analysis and dashboards" width="410"></a>
-<a href="https://github.com/alciviny/alana_llm"><img src="./assets/alanallm.svg" alt="AlanaLLM — multi-agent AI orchestration" width="410"></a>
+<a href="https://github.com/alciviny/rag_autoevolutiva"><img src="./assets/alanallm.svg" alt="AlanaLLM — multi-agent AI orchestration" width="410"></a>
 
 ### Contributions
 
